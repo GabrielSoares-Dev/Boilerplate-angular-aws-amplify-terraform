@@ -25,7 +25,7 @@
     "@angular/forms": "^17.0.0",
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
-    "@angular/router": "^17.0.0",
+    "@angular/router": "^17.3.1",
     "@ng-icons/core": "^26.3.0",
     "@ng-icons/css.gg": "^26.3.0",
     "@ngx-translate/core": "^15.0.0",
